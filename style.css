@@ -1,0 +1,68 @@
+/* #card01:hover,
+#card02:hover,
+#card03:hover,
+#card04:hover,
+#card05:hover,
+#card06:hover,
+#card07:hover,
+#card08:hover {
+  height: 300px;
+  cursor: pointer;
+  background-color: blue;
+}
+* {
+  transition: 0.5s;
+} */
+#card01 {
+  background: url(img/card01.jpeg) no-repeat;
+  background-size: cover;
+}
+#card02 {
+  background: url(img/card02.jpg) no-repeat;
+  background-size: cover;
+}
+#card03 {
+  background: url(img/card03.jpg) no-repeat;
+  background-size: cover;
+}
+#card04 {
+  background: url(img/card04.jpg) no-repeat;
+  background-size: cover;
+}
+#card05 {
+  background: url(img/card05.jpg) no-repeat;
+  background-size: cover;
+}
+#card06 {
+  background: url(img/card06.avif) no-repeat;
+  background-size: cover;
+}
+#card07 {
+  background: url(img/card07.avif) no-repeat;
+  background-size: cover;
+}
+#card08 {
+  background: url(img/card08.avif) no-repeat;
+  background-size: cover;
+}
+#card09 {
+  background: url(img/card09.jpg) no-repeat;
+  background-size: cover;
+}
+#card10 {
+  background: url(img/card10.avif) no-repeat;
+  background-size: cover;
+}
+#card11 {
+  background: url(img/card11.avif) no-repeat;
+  background-size: cover;
+}
+#card12 {
+  background: url(img/card12.avif) no-repeat;
+  background-size: cover;
+}
+body {
+  background: url(img/background.jpeg);
+  background-size: cover;
+  backdrop-filter: blur(50px);
+}
